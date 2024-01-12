@@ -16,7 +16,7 @@ class _MainPageState extends State<MainPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('달력'),
+        title: const Text('Todo list'),
       ),
       body: Column(
         children: [
